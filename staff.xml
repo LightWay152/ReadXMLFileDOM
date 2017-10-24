@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<root>
+	<Customer id="1001">
+		<FirstName>Lê Trạng</FirstName>
+		<LastName>Tý</LastName>
+		<ProductName>Điện thoại LG LTE2</ProductName>
+		<ProductNumber>MH001</ProductNumber>
+		<ProductPrice currency="USD">1000</ProductPrice>
+	</Customer>
+	<Customer id="2001">
+		<FirstName>Phạm Sửu</FirstName>
+		<LastName>Ẹo</LastName>
+		<ProductName>Laptop Asus X550C</ProductName>
+		<ProductNumber>MH002</ProductNumber>
+		<ProductPrice currency="VND">6000000</ProductPrice>
+	</Customer>
+	<Customer id="1002">
+		<FirstName>Phan Dần</FirstName>
+		<LastName>Béo</LastName>
+		<ProductName>Tivi SamSung WAT</ProductName>
+		<ProductNumber>MH003</ProductNumber>
+		<ProductPrice currency="USD">2000</ProductPrice>
+	</Customer>
+	<Customer id="2002">
+		<FirstName>Trần Cả</FirstName>
+		<LastName>Mẹo</LastName>
+		<ProductName>Tủ lạnh Toshiba A7</ProductName>
+		<ProductNumber>MH004</ProductNumber>
+		<ProductPrice currency="VND">9000000</ProductPrice>
+	</Customer>
+</root>
